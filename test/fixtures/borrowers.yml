@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2019-03-05
+  books: 
+  users: 
+
+two:
+  date: 2019-03-05
+  books: 
+  users: 
